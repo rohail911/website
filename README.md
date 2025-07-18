@@ -48,10 +48,4 @@ Update the css/colors/ folder to switch theme colors.
 
 Edit index.html to update content.
 
-Contributing:
 
-Feel free to fork the repository and submit pull requests!
-
-License:
-
-This project is open-source under the MIT License.
